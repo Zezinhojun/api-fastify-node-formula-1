@@ -1,6 +1,6 @@
 import fastify from "fastify";
 import cors from "@fastify/cors"
-import { getTeams } from "./controllers/teams-controller";
+import { getTeam, getTeams } from "./controllers/teams-controller";
 import { getDriver, getDrivers } from "./controllers/drivers-controller";
 
 const server = fastify({ logger: false });
@@ -12,6 +12,7 @@ server.register(cors, {
 });
 
 getTeams(server)
+getTeam(server)
 getDrivers(server)
 getDriver(server)
 
