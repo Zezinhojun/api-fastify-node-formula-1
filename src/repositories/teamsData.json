@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Ferrari",
+        "base": "Maranello, Itália"
+    },
+    {
+        "id": 2,
+        "name": "Mercedes",
+        "base": "Maranello, Stuttgart, Região de Stuttgart, Bade-Vurtemberga, Alemanha"
+    },
+    {
+        "id": 3,
+        "name": "Mclaren",
+        "base": "Woking, Reino Unido"
+    },
+    {
+        "id": 4,
+        "name": "Aston Martin",
+        "base": "Silverstone, Reino Unido"
+    }
+]

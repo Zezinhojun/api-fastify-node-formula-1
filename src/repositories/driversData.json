@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Fernando Alonso",
+        "team": "Aston Martin"
+    },
+    {
+        "id": 2,
+        "name": "Charles Leclerc",
+        "team": "Ferrari"
+    },
+    {
+        "id": 3,
+        "name": "Lewis Hamilton",
+        "team": "Mercedes"
+    },
+    {
+        "id": 4,
+        "name": "Lando Norris",
+        "team": "McLaren"
+    }
+]
